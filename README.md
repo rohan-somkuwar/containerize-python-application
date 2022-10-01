@@ -24,3 +24,28 @@ whenever we change in our python file after that every time update the image
 
 Running a container port 8000:8000
   "docker run -p 8000:8000 python-fastapi"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
